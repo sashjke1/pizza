@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "image": "https://media.istockphoto.com/id/521403691/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B9-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F-%D0%BF%D0%B8%D1%86%D1%86%D0%B0-%D0%BF%D0%B5%D0%BF%D0%BF%D0%B5%D1%80%D0%BE%D0%BD%D0%B8.jpg?s=1024x1024&w=is&k=20&c=Ywx2JehvOaHaRmH9ewfUI2y5IuskfDf3He2W5zFYGQo=",
+      "name": "Пепперони",
+      "price": 450,
+      "article": "PZ1",
+      "available": true
+    },
+    {
+      "image": "https://lamajo-pizza.ru/images/virtuemart/product/%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0%2001.jpg",
+      "name": "Маргарита",
+      "price": 400,
+      "article": "PZ2",
+      "available": true
+    },
+    {
+      "image": "https://drugpovar.ru/wp-content/uploads/2016/11/Gavajskaya-pitstsa.jpg",
+      "name": "Гавайская",
+      "price": 150,
+      "article": "PZ3",
+      "available": false
+    },
+    {
+      "image": "https://baking-academy.ru/upload/iblock/1ba/1bac340c99632765ce557aec8a1d39b3.jpg",
+      "name": "Вегетарианская",
+      "price": 350,
+      "article": "PZ4",
+      "available": true
+    }
+  ]
+}
